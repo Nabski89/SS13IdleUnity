@@ -30,6 +30,22 @@ public class ItemMouseover : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     void FilleOutInfoBox()
     {
         InfoFilledOut = true;
+
+        InventoryItem Basics = GetComponent<InventoryItem>();
+        ItemInfoBaseReferences Reference = GetComponent<ItemInfoBaseReferences>();
+
+        Reference.Name.text = Basics.Name;
+        if (Basics.Cost == 0)
+        {
+            Reference.Price.transform.parent.gameObject.SetActive(false);
+        }
+        else
+        {
+            Reference.Price.transform.parent.gameObject.SetActive(true);
+            Reference.Price.text = Basics.Cost.ToString("N0");
+        }
+
+
     }
     private void OnHoverExit()
     {
