@@ -8,9 +8,57 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710022906079713610, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -964842494257694910, guid: 340ff69ae31e99a4980b06315627303d, type: 3}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Name
+      value: Shambling Assistant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Power
+      value: 103
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Evasion
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: HPRegen
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: MaxHealth
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Precision
+      value: 86
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: AttackSpeed
+      value: 4.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: BurnProtection
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: DamageTypeBrute
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5113497612867753024, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Name
-      value: EnemyPrefab
+      value: Shambling Assistant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Desc
+      value: Glorf
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Verb
+      value: Groans
       objectReference: {fileID: 0}
     - target: {fileID: 8800840427497289225, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Pivot.x

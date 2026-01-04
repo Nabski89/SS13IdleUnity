@@ -8,9 +8,49 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710022906079713610, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1305373847645228835, guid: ecefac7088559ed47bcffbea3a4a0988, type: 3}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Name
+      value: Wannabe Pyromancer Atmospheric Technician
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Power
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Evasion
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: MaxHealth
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Precision
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: AttackSpeed
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: BurnProtection
+      value: 90
+      objectReference: {fileID: 0}
     - target: {fileID: 5113497612867753024, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Name
-      value: EnemyPrefab
+      value: Wannabe Pyromancer Atmospheric Technician
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Desc
+      value: I may have slightly miscalculated the potency of my burn mix.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Verb
+      value: Warns
       objectReference: {fileID: 0}
     - target: {fileID: 8800840427497289225, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Pivot.x

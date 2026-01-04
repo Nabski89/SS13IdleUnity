@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710022906079713610, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4072622106568590741, guid: f9c56984598c6234fae401a97bb984b8, type: 3}
     - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: Name
       value: Egg

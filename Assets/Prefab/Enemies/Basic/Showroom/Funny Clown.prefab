@@ -8,9 +8,49 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710022906079713610, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8518933094673666431, guid: 4f7e99955f1705448a59e6e6bec3ac77, type: 3}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Name
+      value: Actually Funny Clown
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Power
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Evasion
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: MaxHealth
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Precision
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: AttackSpeed
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: BruteProtection
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 5113497612867753024, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Name
-      value: EnemyPrefab
+      value: Funny Clown
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Desc
+      value: A man walks into a bar. CLANG!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Verb
+      value: Exclaims
       objectReference: {fileID: 0}
     - target: {fileID: 8800840427497289225, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Pivot.x

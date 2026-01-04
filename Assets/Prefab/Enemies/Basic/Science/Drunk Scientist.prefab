@@ -8,9 +8,53 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710022906079713610, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6122262441344237238, guid: 972cc0d5c684817459bc3b87899c34b5, type: 3}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Luck
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Name
+      value: Drunk Scientist
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Power
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Evasion
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: MaxHealth
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Precision
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: AttackSpeed
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2613266732546178156, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: DamageTypeBrute
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5113497612867753024, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Name
-      value: EnemyPrefab
+      value: Drunk Scientist
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Desc
+      value: I'm researchiing the art uf droonken buxxxing. *BURP*
+      objectReference: {fileID: 0}
+    - target: {fileID: 6780224836891550153, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
+      propertyPath: Verb
+      value: Slurs
       objectReference: {fileID: 0}
     - target: {fileID: 8800840427497289225, guid: 94a79b115d873f54eae7ad26278573e1, type: 3}
       propertyPath: m_Pivot.x

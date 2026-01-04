@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1da4aefeaea58bd45a76cd66390a0baa
+guid: 2a2b95462a321af459f5ec798c9265a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2118344381955269546
-    second: catgirl_0
+      213: -2950330180502044289
+    second: toxinsScientist_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,12 +126,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: catgirl_0
+      name: toxinsScientist_0
       rect:
         serializedVersion: 2
-        x: 7
+        x: 3
         y: 0
-        width: 19
+        width: 25
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65c9c9112012a92e0800000000000000
-      internalID: -2118344381955269546
+      spriteID: f71cf0515525e07d0800000000000000
+      internalID: -2950330180502044289
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      catgirl_0: -2118344381955269546
+      toxinsScientist_0: -2950330180502044289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
