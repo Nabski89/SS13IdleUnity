@@ -678,6 +678,7 @@ GameObject:
   - component: {fileID: 4237920743423634575}
   - component: {fileID: 2613266732546178156}
   - component: {fileID: 6780224836891550153}
+  - component: {fileID: 7026782959261597498}
   m_Layer: 5
   m_Name: EnemyPrefab
   m_TagString: Untagged
@@ -763,9 +764,9 @@ MonoBehaviour:
   AttackSpeed: 0
   MaxHealth: 0
   HPRegen: 0
-  Evasion: 0
   Precision: 0
   Power: 0
+  Evasion: 0
   Command: 0
   Luck: 0
   Protection: 0
@@ -786,6 +787,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Desc: 
   Verb: Says
+--- !u!114 &7026782959261597498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113497612867753024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66bd627f28caab040ba608aec400ad33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NameText: {fileID: 7537655876330678752}
 --- !u!1 &5270066487392499247
 GameObject:
   m_ObjectHideFlags: 0
