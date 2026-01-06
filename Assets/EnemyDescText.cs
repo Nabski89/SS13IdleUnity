@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemyDescText : MonoBehaviour
 {
+    public string Name;
     public string Desc;
     public string Verb = "Says";
     //if verb is blank we 

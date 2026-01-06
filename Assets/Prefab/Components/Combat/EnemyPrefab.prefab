@@ -679,6 +679,8 @@ GameObject:
   - component: {fileID: 2613266732546178156}
   - component: {fileID: 6780224836891550153}
   - component: {fileID: 7026782959261597498}
+  - component: {fileID: 2831100768488474093}
+  - component: {fileID: 7573579777022303855}
   m_Layer: 5
   m_Name: EnemyPrefab
   m_TagString: Untagged
@@ -785,6 +787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af3e3578d173f0a4e8c42d059b58f40d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Name: 
   Desc: 
   Verb: Says
 --- !u!114 &7026782959261597498
@@ -800,6 +803,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NameText: {fileID: 7537655876330678752}
+--- !u!114 &2831100768488474093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113497612867753024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66a1311ed5ae18f48a0f6dbc9c470337, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7573579777022303855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5113497612867753024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c367f8eb779bbd439514d2f9b292e91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5270066487392499247
 GameObject:
   m_ObjectHideFlags: 0
